@@ -1,0 +1,16 @@
+.boxv1{
+
+    border: solid black 1px;
+display: flex;
+justify-content: space-around;
+justify-items: center;
+    text-align: center;
+    float: left;
+   
+}
+.container{
+ border: solid 1px green;
+    width: 10%;
+
+    margin: 0 auto;
+}
